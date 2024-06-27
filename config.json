@@ -1,0 +1,24 @@
+{
+    "token": "",
+    "clientId": "", //id de votre bot //  A SUPPRIMER DES QUE VOUS AVEZ LU
+    "guildId": "",
+    "channelId": "",
+
+    "staffRoleId": "",
+
+    "categories": {
+      "question": "",
+      "probleme_en_jeu": "",
+      "boutique": "",
+      "remboursement": "",
+      "unban_unjail": "",
+      "legal": "",
+      "illegal": "",
+      "wipe_skin_mort_rp": "",
+      "administrateurs_superviseurs": "",
+      "staff": "",
+      "event": "",
+      "developpeur": ""
+    }
+  }
+  
